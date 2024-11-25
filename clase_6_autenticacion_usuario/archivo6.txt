@@ -1,0 +1,3 @@
+en la clase seis hicimos un codigo que trataba sobre una simulacion donde 
+se tenia que crear el proceso de la autenticacion de un usuario,  esta 
+simulacion contaba con correo, contraseña y nombre de usuario.
